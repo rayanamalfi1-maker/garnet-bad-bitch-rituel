@@ -2,28 +2,28 @@ import { motion } from "framer-motion";
 
 const photos = [
 {
-  src: "/lovable-uploads/317a2970-2512-4fdd-b8b1-36cc5cb5e04a.png",
+  src: "/lovable-uploads/8edf09e0-e442-4e88-a844-d059cc5de72d.png",
   name: "Léa",
   city: "Paris",
   review: "Je le mets chaque soir avant de sortir. C'est devenu mon armure invisible. Trois compliments dès la première soirée.",
   stars: 5
 },
 {
-  src: "/lovable-uploads/1a884897-2ed9-4e8e-be7d-2186ecfa4407.png",
+  src: "/lovable-uploads/ecfe6271-9a5e-41c7-b222-e0e7c9997751.png",
   name: "Sarah",
   city: "Lyon",
   review: "Ma meilleure amie m'a demandé ce qui avait changé chez moi. C'était juste ce collier… et l'énergie qu'il me donne.",
   stars: 5
 },
 {
-  src: "/lovable-uploads/ad54a8c9-5502-4dca-b289-48e6dd0f8860.png",
+  src: "/lovable-uploads/c8f306a8-366a-46c7-b3da-045e8a89e18a.png",
   name: "Inès",
   city: "Bordeaux",
   review: "Sobre, élégant, et cette couleur grenat… Les gens me fixent sans savoir pourquoi. Moi, je sais.",
   stars: 5
 },
 {
-  src: "/lovable-uploads/39313238-8fe5-4007-be80-f428e9459866.png",
+  src: "/lovable-uploads/1f259964-dca7-4cd0-970a-53f9c1f1f466.png",
   name: "Camille",
   city: "Marseille",
   review: "Je l'ai offert à ma sœur. Elle ne l'enlève plus. On dirait qu'elle a pris 10 niveaux de confiance.",
