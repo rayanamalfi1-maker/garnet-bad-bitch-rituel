@@ -37,7 +37,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/c8f306a8-366a-46c7-b3da-045e8a89e18a.png",
+  src: "/lovable-uploads/861199c2-b80f-403f-af07-079f18c28653.png",
   name: "Amira",
   city: "Lille",
   review: "Il va avec tout. Robe noire, jean blanc, peu importe. C'est la pièce qui transforme n'importe quelle tenue.",
