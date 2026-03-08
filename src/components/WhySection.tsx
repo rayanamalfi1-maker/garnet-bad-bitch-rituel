@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import necklaceWorn from "@/assets/necklace-worn.jpg";
 
 const bullets = [
-"Te mettre en condition avant chaque soirée ou rendez-vous",
-"Te rappeler tes standards quand tu doutes",
+" les regards glisseront automatiquement vers toi",
+"ton décolleté devient le point focal de la pièce, peu importe qui est autour",
 "Faire tourner quelques têtes sans avoir besoin d'en faire trop",
-"Marquer les moments où tu t'es vraiment choisie"];
+" on te parle, on te drague, on se souvient de toi"];
 
 
 const WhySection = () =>
@@ -41,10 +41,8 @@ const WhySection = () =>
           </h2>
 
           <p className="text-muted-foreground leading-relaxed mb-8">
-            Tu connais cette version de toi qui s'excuse trop, qui doute, qui reste sage.
-            Ce collier, c'est le geste que tu fais pour laisser cette version à la porte.
-            Tu l'attaches, tu te regardes, et tu sors en étant{" "}
-            <span className="text-foreground font-medium">celle qu'on n'oublie pas</span>.
+            Si tu acceptes encore d'être "la copine sympa" pendant que d'autres prennent toute l'attention, ce collier n'est pas pour toi.
+            {"\n"}Si tu en as marre d'être celle qu'on oublie, tu sais déjà que tu ne peux pas fermer cette page sans l'avoir essayé.
           </p>
 
           <ul className="space-y-4">
