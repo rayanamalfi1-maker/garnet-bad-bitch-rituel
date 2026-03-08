@@ -38,8 +38,8 @@ const photos = [
 },
 {
   src: "/lovable-uploads/861199c2-b80f-403f-af07-079f18c28653.png",
-  name: "Amira",
-  city: "Lille",
+  name: "Lucía",
+  city: "Barcelona",
   review: "People always told me my neck was 'too plain', that I didn't have that perfume‑ad elegance other women have. This necklace erased that in one evening. The moment I put it on, people started saying I looked like a model, just because the garnet drop visually lengthens my neck and pulls every eye toward it. Even in a simple tank top I look like I've been styled by a professional. If you feel like there is nothing special about your body, stop accepting that: this necklace turns the parts you hide into the feature nobody can ignore.",
   stars: 5
 },
