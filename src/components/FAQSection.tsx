@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     q: "What are the delivery times?",
-    a: "Livraison suivie en 48 à 72h en France métropolitaine. Tu reçois un numéro de suivi dès l'expédition. Livraison en Europe sous 5-7 jours ouvrés.",
+    a: "Around 3 to 7 business days. Honestly, the real question is: how many nights out, dates or opportunities are you going to live through without this advantage other women don't have? Every day without this necklace, you're still playing with the same weapons as everyone else.",
   },
   {
     q: "How do returns work?",
