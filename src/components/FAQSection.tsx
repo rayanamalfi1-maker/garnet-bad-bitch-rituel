@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 
 const faqs = [
   {
-    q: "Quels sont les matériaux utilisés ?",
+    q: "What materials are used?",
     a: "Le pendentif est en grenat naturel véritable, serti sur une monture en acier inoxydable plaqué or. La chaîne est en acier inox hypoallergénique, résistante et adaptée aux peaux sensibles.",
   },
   {
