@@ -48,39 +48,9 @@ const UGCSection = () => (
       </p>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-        {photos.map((p, i) => (
+        {[...photos, ...photos].map((p, i) => (
           <motion.div
-            key={`photo-${p.name}`}
-            className="relative rounded-lg overflow-hidden"
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            transition={{ delay: i * 0.1 }}
-          >
-            <div className="w-full aspect-[3/4]">
-              <img
-                src={p.src}
-                alt={`${p.name} portant le collier grenat`}
-                className="w-full h-full object-cover border rounded-lg"
-                loading="lazy"
-              />
-              <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-background/90 to-transparent p-4">
-                <span className="text-sm font-medium text-foreground">
-                  {p.name}
-                </span>
-                <span className="text-xs text-muted-foreground ml-1">
-                  · {p.city}
-                </span>
-              </div>
-            </div>
-          </motion.div>
-        ))}
-      </div>
-
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-4">
-        {photos.map((p, i) => (
-          <motion.div
-            key={p.name}
+            key={`${p.name}-${i}`}
             className="relative rounded-lg"
             style={{ perspective: 800 }}
             initial={{ opacity: 0, y: 20 }}
