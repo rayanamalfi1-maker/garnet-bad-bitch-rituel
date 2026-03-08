@@ -45,8 +45,8 @@ const photos = [
 },
 {
   src: "/lovable-uploads/80e59576-d460-4a4d-87a9-8702db392082.png",
-  name: "Manon",
-  city: "Nantes",
+  name: "Carmen",
+  city: "Madrid",
   review: "At work, I was the girl people interrupted in meetings, the one taking notes for everyone else. I decided to wear this necklace once 'just to see'. Result: no one looked at the screen anymore, every eye stayed glued to me. Suddenly my ideas were brilliant, I got invited to meetings I'd never been allowed into. My boss told me I now had a 'charisma you can't ignore'. If you feel you can work twice as hard and still not be respected, stop believing it will fix itself: put on this necklace and watch how doors that stayed closed for years finally open for you.",
   stars: 5
 },
