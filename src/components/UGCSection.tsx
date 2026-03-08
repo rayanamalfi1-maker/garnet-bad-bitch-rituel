@@ -58,7 +58,7 @@ const UGCSection = () => (
             viewport={{ once: true }}
             transition={{ delay: i * 0.1 }}
           >
-            <div className="relative w-full aspect-[3/4]">
+            <div className="group relative w-full aspect-[3/4] [transform-style:preserve-3d] transition-transform duration-700 ease-in-out hover:[transform:rotateY(180deg)]">
               {/* Front */}
               <div className="absolute inset-0 [backface-visibility:hidden] rounded-lg overflow-hidden">
                 <img
