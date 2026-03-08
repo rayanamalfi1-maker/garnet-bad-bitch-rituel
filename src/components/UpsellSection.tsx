@@ -13,7 +13,7 @@ const UpsellSection = () =>
         initial={{ opacity: 0, scale: 0.95 }}
         whileInView={{ opacity: 1, scale: 1 }}
         viewport={{ once: true }}
-        transition={{ duration: 0.5 }} src="/lovable-uploads/6d0cac15-b8fd-48c2-a362-6e588a391ad7.png" />
+        transition={{ duration: 0.5 }} src="/lovable-uploads/ae8c73f1-f628-4439-ba38-e5c16804c98f.png" />
       
 
         <motion.div
