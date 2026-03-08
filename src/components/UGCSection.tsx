@@ -23,7 +23,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/1f259964-dca7-4cd0-970a-53f9c1f1f466.png",
+  src: "/lovable-uploads/76624604-ba0e-48b9-aebb-432bb6571440.png",
   name: "Camille",
   city: "Marseille",
   review: "Je l'ai offert à ma sœur. Elle ne l'enlève plus. On dirait qu'elle a pris 10 niveaux de confiance.",
@@ -37,21 +37,21 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/c8f306a8-366a-46c7-b3da-045e8a89e18a.png",
+  src: "/lovable-uploads/861199c2-b80f-403f-af07-079f18c28653.png",
   name: "Amira",
   city: "Lille",
   review: "Il va avec tout. Robe noire, jean blanc, peu importe. C'est la pièce qui transforme n'importe quelle tenue.",
   stars: 5
 },
 {
-  src: "/lovable-uploads/ad54a8c9-5502-4dca-b289-48e6dd0f8860.png",
+  src: "/lovable-uploads/80e59576-d460-4a4d-87a9-8702db392082.png",
   name: "Manon",
   city: "Nantes",
   review: "Mon copain m'a dit que j'avais 'quelque chose en plus' depuis que je le porte. Mission accomplie.",
   stars: 5
 },
 {
-  src: "/lovable-uploads/39313238-8fe5-4007-be80-f428e9459866.png",
+  src: "/lovable-uploads/5e6eb797-6005-443d-9eb1-f94196bc22d0.png",
   name: "Yasmine",
   city: "Nice",
   review: "Le grenat capte la lumière d'une façon incroyable. J'ai l'impression de porter un secret précieux.",
