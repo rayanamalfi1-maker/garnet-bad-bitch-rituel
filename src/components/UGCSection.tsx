@@ -9,7 +9,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/1a884897-2ed9-4e8e-be7d-2186ecfa4407.png",
+  src: "/lovable-uploads/ecfe6271-9a5e-41c7-b222-e0e7c9997751.png",
   name: "Sarah",
   city: "Lyon",
   review: "Ma meilleure amie m'a demandé ce qui avait changé chez moi. C'était juste ce collier… et l'énergie qu'il me donne.",
