@@ -28,6 +28,34 @@ const photos = [
   city: "Marseille",
   review: "Je l'ai offert à ma sœur. Elle ne l'enlève plus. On dirait qu'elle a pris 10 niveaux de confiance.",
   stars: 4
+},
+{
+  src: "/lovable-uploads/317a2970-2512-4fdd-b8b1-36cc5cb5e04a.png",
+  name: "Chloé",
+  city: "Toulouse",
+  review: "Je ne croyais pas aux bijoux 'énergétiques'. Puis j'ai porté celui-ci à un rendez-vous… il m'a rappelée le lendemain.",
+  stars: 5
+},
+{
+  src: "/lovable-uploads/c8f306a8-366a-46c7-b3da-045e8a89e18a.png",
+  name: "Amira",
+  city: "Lille",
+  review: "Il va avec tout. Robe noire, jean blanc, peu importe. C'est la pièce qui transforme n'importe quelle tenue.",
+  stars: 5
+},
+{
+  src: "/lovable-uploads/ad54a8c9-5502-4dca-b289-48e6dd0f8860.png",
+  name: "Manon",
+  city: "Nantes",
+  review: "Mon copain m'a dit que j'avais 'quelque chose en plus' depuis que je le porte. Mission accomplie.",
+  stars: 5
+},
+{
+  src: "/lovable-uploads/39313238-8fe5-4007-be80-f428e9459866.png",
+  name: "Yasmine",
+  city: "Nice",
+  review: "Le grenat capte la lumière d'une façon incroyable. J'ai l'impression de porter un secret précieux.",
+  stars: 4
 }];
 
 
