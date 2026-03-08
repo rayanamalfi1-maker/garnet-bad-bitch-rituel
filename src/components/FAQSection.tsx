@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 const faqs = [
   {
     q: "What materials are used?",
-    a: "Le pendentif est en grenat naturel véritable, serti sur une monture en acier inoxydable plaqué or. La chaîne est en acier inox hypoallergénique, résistante et adaptée aux peaux sensibles.",
+    a: "The materials are chosen for one reason only: to catch attention.\nA dark metal chain that makes your skin stand out, deep garnet beads that grab the light, and a red drop placed exactly where no one can ignore it. If you're looking for a discreet piece of jewelry, this is not it.",
   },
   {
     q: "Is the necklace resistant to water and sweat?",
