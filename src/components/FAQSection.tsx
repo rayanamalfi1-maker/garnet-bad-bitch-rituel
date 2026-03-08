@@ -25,7 +25,7 @@ const faqs = [
   },
   {
     q: "What is the length of the necklace?",
-    a: "La chaîne mesure 45 cm avec une extension de 5 cm pour s'adapter à toutes les morphologies. Le pendentif goutte fait environ 1,5 cm.",
+    a: "It's adjustable so the red drop falls exactly where people's eyes naturally land. Too high and it looks like a regular necklace. Too low and it loses its impact. Here, it's calculated so no one can miss this focal point on you.",
   },
 ];
 
