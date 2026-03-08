@@ -51,7 +51,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/39313238-8fe5-4007-be80-f428e9459866.png",
+  src: "/lovable-uploads/5e6eb797-6005-443d-9eb1-f94196bc22d0.png",
   name: "Yasmine",
   city: "Nice",
   review: "Le grenat capte la lumière d'une façon incroyable. J'ai l'impression de porter un secret précieux.",
