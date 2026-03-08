@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 const photos = [
 {
   src: "/lovable-uploads/8edf09e0-e442-4e88-a844-d059cc5de72d.png",
-  name: "Léa",
-  city: "Paris",
+  name: "Chloe",
+  city: "London",
   review: "All my life I was 'the nice friend, not the hot one'. With this necklace, that ended overnight. The very first evening I wore it, even the prettiest girls on the street seemed invisible next to me. Men literally crossed the road to talk to me, just because the red stone pulled their eyes onto me. If you're tired of going home wondering why nobody noticed you, stop making excuses: this necklace IS the difference between being invisible and being the girl everyone stares at.",
   stars: 5
 },
