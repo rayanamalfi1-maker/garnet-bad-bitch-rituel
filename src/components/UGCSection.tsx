@@ -48,7 +48,7 @@ const UGCSection = () =>
       </p>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-        {[...photos, ...photos].map((p, i) =>
+        {photos.map((p, i) =>
       <motion.div
         key={`${p.name}-${i}`}
         className="relative rounded-lg"
