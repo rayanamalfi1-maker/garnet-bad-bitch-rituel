@@ -23,7 +23,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/1f259964-dca7-4cd0-970a-53f9c1f1f466.png",
+  src: "/lovable-uploads/76624604-ba0e-48b9-aebb-432bb6571440.png",
   name: "Camille",
   city: "Marseille",
   review: "Je l'ai offert à ma sœur. Elle ne l'enlève plus. On dirait qu'elle a pris 10 niveaux de confiance.",
