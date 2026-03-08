@@ -44,7 +44,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/ad54a8c9-5502-4dca-b289-48e6dd0f8860.png",
+  src: "/lovable-uploads/80e59576-d460-4a4d-87a9-8702db392082.png",
   name: "Manon",
   city: "Nantes",
   review: "Mon copain m'a dit que j'avais 'quelque chose en plus' depuis que je le porte. Mission accomplie.",
