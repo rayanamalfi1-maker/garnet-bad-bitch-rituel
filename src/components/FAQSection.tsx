@@ -21,7 +21,7 @@ const faqs = [
   },
   {
     q: "How do returns work?",
-    a: "Tu as 30 jours pour changer d'avis. Retour simple, remboursement intégral. Pas de questions, pas de jugement.",
+    a: "You have 30 days to send it back. But most of our clients tell us the same thing: once they've seen the difference between \"with\" and \"without\", going back is no longer an option. The real risk isn't keeping it. It's never finding out what you could trigger with it.",
   },
   {
     q: "What is the length of the necklace?",
