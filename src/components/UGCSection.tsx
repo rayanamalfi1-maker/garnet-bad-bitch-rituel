@@ -50,7 +50,7 @@ const UGCSection = () => (
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         {[...photos, ...photos].map((p, i) => (
           <motion.div
-            key={p.name}
+            key={`${p.name}-${i}`}
             className="relative rounded-lg"
             style={{ perspective: 800 }}
             initial={{ opacity: 0, y: 20 }}
