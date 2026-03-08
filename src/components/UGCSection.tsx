@@ -31,8 +31,8 @@ const photos = [
 },
 {
   src: "/lovable-uploads/317a2970-2512-4fdd-b8b1-36cc5cb5e04a.png",
-  name: "Chloé",
-  city: "Toulouse",
+  name: "Isla",
+  city: "Edinburgh",
   review: "I was terrified of someone seeing me natural: no makeup, messy hair, I honestly felt average. The day I kept this necklace on at night, everything changed. My boyfriend looked at me like I'd stepped out of a movie scene, just because the red stone was resting between my breasts on the T‑shirt. Even early‑morning photos look attractive although I literally did nothing. If you dread the moment someone discovers the 'real you', this necklace is your anti‑disappointment insurance: with it, you don't need to be perfect, it convinces them you already are.",
   stars: 5
 },
