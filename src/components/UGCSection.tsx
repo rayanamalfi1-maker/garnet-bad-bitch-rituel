@@ -17,8 +17,8 @@ const photos = [
 },
 {
   src: "/lovable-uploads/cdf49c04-8ef8-4a4d-bc23-0856f8efc72a.png",
-  name: "Inès",
-  city: "Bordeaux",
+  name: "Manon",
+  city: "Paris",
   review: "I used to delete every other photo because I always looked average, forgettable. This necklace turned every selfie into a perfect profile picture. With the garnet drop in the center, even my front camera treats me like an influencer: my stories blow up, reactions pour in, exes suddenly come back. It's like the stone automatically installs a 'femme fatale' filter on me. If you feel you're never pretty enough on photos, stop torturing yourself: this necklace is the fastest shortcut from 'I hide myself' to 'everyone wants to look like me'.",
   stars: 5
 },
