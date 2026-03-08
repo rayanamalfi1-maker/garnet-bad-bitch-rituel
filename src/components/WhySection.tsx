@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import necklaceWorn from "@/assets/necklace-worn.jpg";
 
 const bullets = [
-"Te mettre en condition avant chaque soirée ou rendez-vous",
-"Te rappeler tes standards quand tu doutes",
+" les regards glisseront automatiquement vers toi",
+"ton décolleté devient le point focal de la pièce, peu importe qui est autour",
 "Faire tourner quelques têtes sans avoir besoin d'en faire trop",
-"Marquer les moments où tu t'es vraiment choisie"];
+" on te parle, on te drague, on se souvient de toi"];
 
 
 const WhySection = () =>
