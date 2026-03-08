@@ -24,7 +24,7 @@ const faqs = [
     a: "Tu as 30 jours pour changer d'avis. Retour simple, remboursement intégral. Pas de questions, pas de jugement.",
   },
   {
-    q: "Quelle est la longueur du collier ?",
+    q: "What is the length of the necklace?",
     a: "La chaîne mesure 45 cm avec une extension de 5 cm pour s'adapter à toutes les morphologies. Le pendentif goutte fait environ 1,5 cm.",
   },
 ];
