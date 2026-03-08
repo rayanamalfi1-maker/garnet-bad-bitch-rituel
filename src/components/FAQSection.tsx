@@ -13,7 +13,7 @@ const faqs = [
   },
   {
     q: "Is the necklace resistant to water and sweat?",
-    a: "Oui. L'acier inoxydable ne s'oxyde pas. Tu peux le porter au quotidien sans crainte — douche, sport, soirée. Il ne ternira pas.",
+    a: "Yes. You can wear it all day long — at work, on a night out, even when you dance until morning. The idea is simple: the more you wear it, the more people get used to seeing you \"different\"… and the harder it becomes to imagine the old you without this necklace.",
   },
   {
     q: "What are the delivery times?",
