@@ -16,7 +16,7 @@ const photos = [
   stars: 5
 },
 {
-  src: "/lovable-uploads/ad54a8c9-5502-4dca-b289-48e6dd0f8860.png",
+  src: "/lovable-uploads/c8f306a8-366a-46c7-b3da-045e8a89e18a.png",
   name: "Inès",
   city: "Bordeaux",
   review: "Sobre, élégant, et cette couleur grenat… Les gens me fixent sans savoir pourquoi. Moi, je sais.",
