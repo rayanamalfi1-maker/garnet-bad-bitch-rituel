@@ -1,14 +1,10 @@
 import { motion } from "framer-motion";
-import ugc1 from "@/assets/ugc-1.jpg";
-import ugc2 from "@/assets/ugc-2.jpg";
-import ugc3 from "@/assets/ugc-3.jpg";
-import ugc4 from "@/assets/ugc-4.jpg";
 
 const photos = [
-{ src: ugc1, name: "Léa", city: "Paris" },
-{ src: ugc2, name: "Sarah", city: "Lyon" },
-{ src: ugc3, name: "Inès", city: "Bordeaux" },
-{ src: ugc4, name: "Camille", city: "Marseille" }];
+{ src: "/lovable-uploads/bc429f29-08a7-404a-b74d-dfb7f35fea8a.png", name: "Léa", city: "Paris" },
+{ src: "/lovable-uploads/1a884897-2ed9-4e8e-be7d-2186ecfa4407.png", name: "Sarah", city: "Lyon" },
+{ src: "/lovable-uploads/ad54a8c9-5502-4dca-b289-48e6dd0f8860.png", name: "Inès", city: "Bordeaux" },
+{ src: "/lovable-uploads/39313238-8fe5-4007-be80-f428e9459866.png", name: "Camille", city: "Marseille" }];
 
 
 const UGCSection = () =>
