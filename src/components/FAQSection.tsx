@@ -20,7 +20,7 @@ const faqs = [
     a: "Livraison suivie en 48 à 72h en France métropolitaine. Tu reçois un numéro de suivi dès l'expédition. Livraison en Europe sous 5-7 jours ouvrés.",
   },
   {
-    q: "Comment fonctionnent les retours ?",
+    q: "How do returns work?",
     a: "Tu as 30 jours pour changer d'avis. Retour simple, remboursement intégral. Pas de questions, pas de jugement.",
   },
   {
