@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const photos = [
 {
-  src: "/lovable-uploads/317a2970-2512-4fdd-b8b1-36cc5cb5e04a.png",
+  src: "/lovable-uploads/8edf09e0-e442-4e88-a844-d059cc5de72d.png",
   name: "Léa",
   city: "Paris",
   review: "Je le mets chaque soir avant de sortir. C'est devenu mon armure invisible. Trois compliments dès la première soirée.",
