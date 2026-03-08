@@ -41,10 +41,8 @@ const WhySection = () =>
           </h2>
 
           <p className="text-muted-foreground leading-relaxed mb-8">
-            Tu connais cette version de toi qui s'excuse trop, qui doute, qui reste sage.
-            Ce collier, c'est le geste que tu fais pour laisser cette version à la porte.
-            Tu l'attaches, tu te regardes, et tu sors en étant{" "}
-            <span className="text-foreground font-medium">celle qu'on n'oublie pas</span>.
+            Si tu acceptes encore d'être "la copine sympa" pendant que d'autres prennent toute l'attention, ce collier n'est pas pour toi.
+            {"\n"}Si tu en as marre d'être celle qu'on oublie, tu sais déjà que tu ne peux pas fermer cette page sans l'avoir essayé.
           </p>
 
           <ul className="space-y-4">

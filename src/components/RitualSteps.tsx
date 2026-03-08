@@ -3,20 +3,20 @@ import { motion } from "framer-motion";
 const steps = [
   {
     num: "01",
-    title: "Pause",
-    desc: "Tu prends le collier. Tu coupes avec ta journée. Tout le bruit s'arrête.",
+    title: "Coupe.",
+    desc: "Tu prends le collier. Tu regardes ta journée de fille transparente, et tu décides que c'est terminé. À partir de maintenant, soit on te voit, soit tu ne viens pas.",
     emoji: "🤚",
   },
   {
     num: "02",
-    title: "Ancre",
-    desc: "Tu le fermes derrière ta nuque. Tu te regardes. Tu sais exactement qui tu es.",
+    title: "Programme\u2011toi.",
+    desc: "Tu le fermes derrière ta nuque. Ton cerveau comprend le message : ce soir, tu n'es plus la version sage de toi. Tu passes instantanément du rôle de figurante au rôle de femme que tout le monde remarque.",
     emoji: "✨",
   },
   {
     num: "03",
-    title: "Entre",
-    desc: "Tu passes la porte. Tu arrives. Et tout le monde le sent.",
+    title: "Prends la pièce.",
+    desc: "Tu passes la porte. Les conversations ralentissent, les regards tombent sur la pierre au creux de ta poitrine. Tu n'as encore rien dit, mais tout le monde a déjà compris qui est la femme qui mène la soirée.",
     emoji: "🚪",
   },
 ];
