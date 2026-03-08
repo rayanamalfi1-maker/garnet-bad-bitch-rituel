@@ -16,7 +16,7 @@ const faqs = [
     a: "Oui. L'acier inoxydable ne s'oxyde pas. Tu peux le porter au quotidien sans crainte — douche, sport, soirée. Il ne ternira pas.",
   },
   {
-    q: "Quels sont les délais de livraison ?",
+    q: "What are the delivery times?",
     a: "Livraison suivie en 48 à 72h en France métropolitaine. Tu reçois un numéro de suivi dès l'expédition. Livraison en Europe sous 5-7 jours ouvrés.",
   },
   {
