@@ -12,7 +12,7 @@ const faqs = [
     a: "Le pendentif est en grenat naturel véritable, serti sur une monture en acier inoxydable plaqué or. La chaîne est en acier inox hypoallergénique, résistante et adaptée aux peaux sensibles.",
   },
   {
-    q: "Le collier résiste-t-il à l'eau et la transpiration ?",
+    q: "Is the necklace resistant to water and sweat?",
     a: "Oui. L'acier inoxydable ne s'oxyde pas. Tu peux le porter au quotidien sans crainte — douche, sport, soirée. Il ne ternira pas.",
   },
   {
