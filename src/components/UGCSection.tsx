@@ -52,8 +52,8 @@ const photos = [
 },
 {
   src: "/lovable-uploads/5e6eb797-6005-443d-9eb1-f94196bc22d0.png",
-  name: "Yasmine",
-  city: "Nice",
+  name: "Olivia",
+  city: "New York",
   review: "For years I felt 'too nice', too quiet, the kind of girl people like but never truly desire. The first time I wore this necklace to the bar, I saw the difference in minutes: men started stumbling over their words, women looked me up and down like I was competition. The red stone at the center of my chest works like a spotlight — once someone has seen me with it, they can't forget me. If you're scared of staying the sweet but invisible girl forever, this necklace is the line between being tolerated and being wanted.",
   stars: 4
 }];
