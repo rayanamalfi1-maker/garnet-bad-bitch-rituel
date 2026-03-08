@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Star } from "lucide-react";
-import heroImage from "@/assets/hero-necklace.jpg";
+import heroImage from "@/assets/hero-necklace-new.png";
 
 const HeroSection = () => {
   return (
