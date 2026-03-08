@@ -24,8 +24,8 @@ const photos = [
 },
 {
   src: "/lovable-uploads/76624604-ba0e-48b9-aebb-432bb6571440.png",
-  name: "Camille",
-  city: "Marseille",
+  name: "Leïla",
+  city: "Marrakech",
   review: "Sur les photos de vacances, je servais de figurante. Depuis que je porte ce collier, chaque paysage devient un simple fond derrière moi. Les gens likent mes photos pour moi, pas pour le coucher de soleil : mes DM sont remplis de messages du genre \"tu sors d'un shooting ?\". En vrai, je suis la même, mais la pierre rouge fait croire à tout le monde que je vis une vie de carte postale. Si tu as l'impression que ta vie est moins \"instagrammable\" que celle des autres, ne change pas de ville ni de corps : commence par mettre ce collier, et observe comment c'est soudain toi qui fais rêver les autres.",
   stars: 4
 },
